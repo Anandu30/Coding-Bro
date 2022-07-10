@@ -1,0 +1,207 @@
+#title{
+    background-color: #ff4c68;
+}
+.container-fluid{
+    padding: 3% 13%;
+}
+.navbar-brand{
+    font-size: 37px;
+}
+.nav-item{
+    margin-right: 37px;
+}
+.head1{
+    width:100%;
+}
+.head p{
+    color: white;
+    font-size: 39px;
+    margin-top: 79px;
+}
+.btn{
+    font-family: 'Montserrat', sans-serif;
+
+}
+.button{
+    margin-right: 15px;
+}
+#feature{
+    padding: 15% 15%;
+    text-align: center;
+}
+.icon{
+    margin-left: -4px;
+    color: #ef8172;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+.carousel{
+    background-color: #ef8172;
+}
+.image h2{
+    margin-top: 55px;
+    text-align: center;
+    width: 100%;
+    color: white;
+}
+.image img{
+    border-radius: 100%;
+    width: 27%;
+    margin: 1% 37%;
+}
+.image h3{
+    text-align: center;
+    color: white;
+}
+.co{
+    background-color: #ef8172;
+}
+.co h2{
+    color: white;
+    text-align: center;
+    margin-top: 49px;
+    margin-bottom: 56px;
+}
+.co img{
+    width:213px;
+    margin-left: 97px;
+}
+#Course h3{
+    text-align: center;
+    margin-top: 34px;
+    font-family: 'Montserrat-Bold';
+    font-weight: bold;
+}
+#Course p{
+    text-align: center;
+    font-family: 'Montserrat-Bold';
+    font-weight: bold;
+}
+.card-title{
+    text-align: center;
+}
+.card{
+    height: 365px;
+    margin-top: 90px;
+    margin-left: 28px;
+    margin-bottom: 56px;
+}
+.card img{
+    width:262px;
+    height:100px;
+    margin-left: 11px;
+    margin-top: 24px;
+    margin-bottom: 48px;
+}
+
+/* .card-body p{
+    height: 117px;
+}
+.c2{
+    height: 100px;
+}
+.c4{
+    height: 123px;
+} */
+.but{
+    margin-left: 55px;
+    background-color: rgb(5, 5, 5);
+    border: 0;
+}
+.but:hover{
+    background-color: black;
+    color: white;
+}
+.python-bt{
+    margin-top: 40px;
+}
+#footer{
+    background-color: #ef8172;
+    padding: 4% 13%;
+}
+/*#footer a{
+    text-decoration: none;
+    color:white;
+}
+#footer a:hover{
+    color: black;
+}
+.f2 h5{
+    padding: 6px 533px;
+    margin-top: -59px;
+    margin-left: 131px;
+}
+.f2 button{
+    background-color: rgb(5, 5, 5);
+    border: 0;
+}
+.f2 button:hover{
+    background-color: black;
+    color: white;
+}
+.but1{
+    margin-left: 664px;
+}
+.but2{
+    margin-left: 20px;
+}
+form{
+    margin-left: 663px;
+    margin-top: 25px;
+}
+form h4{
+    text-align: center;
+}*/
+
+#footer a{
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Montserrat-Bold';
+    font-weight: bold;
+    color: #fff;
+    font-size: 1.5rem;
+    line-height: 3;
+}
+#footer a:hover{
+    color: black;
+}
+#footer h4{
+    text-align: center;
+    font-family: 'Montserrat-Bold';
+    font-weight: bold;
+    color: #fff;
+    font-size: 1.5rem;
+}
+.fa-solid{
+margin-left: 0px;
+}
+form{
+    width: 268px;
+}
+.Download{
+    width: 271px;
+    margin: 5% 1%;
+}
+.btn-dark{
+    padding: 9px 5%;
+    margin: 5% 1%;
+}
+h5{
+    margin: 8% 0%;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+.Search{
+    width: 163px;
+    margin-left: 1px;
+    margin-top: -7px;
+}
+.sub{
+    width: 82px;
+    height: 50px;
+    color: white;
+}
+.f1{
+    color: white;
+}
